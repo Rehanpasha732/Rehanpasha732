@@ -7,7 +7,7 @@
    
 - 🔭 I’m currently working on HTML AND CSS(https://figo-assignment.netlify.app/) (https://salt-n-pepper-website.netlify.app/)
 
-- 🌱I’m always learning something new and amazing
+-🌱 I’m currently learning Hybrid mobile App and Web Development.
 
 - 👯 I’m looking to collaborate on **GitHub**
 
