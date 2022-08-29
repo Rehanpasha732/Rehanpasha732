@@ -1,5 +1,5 @@
  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
-   <h1 align="center">Hi 👋, I'm Rehan Pasha</h1>
+   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Rehan Pasha</h1>
    <img align="right"   alt="coding" width="400" src="https://camo.githubusercontent.com/a65fd353cc18e92666cdd48ca3e74436ae8d4991d2e61b0659370fcf21e14d26/68747470733a2f2f692e6962622e636f2f596a46423958572f74686f75676874776f726b732d6769662d6472696262626c652e676966">    
  
        
