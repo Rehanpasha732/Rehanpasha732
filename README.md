@@ -9,7 +9,7 @@ Also, I am ready🤵 to deal with the new technology 💻and the challenges that
  
        
      
-[![Website](https://img.shields.io/website?label=Rehan-Pasha.surge.sh/.com&style=for-the-badge&url=https://rehan-pasha.surge.sh/)]
+[![Website](https://img.shields.io/website?label=https://rehan-pasha.surge.sh/.com&style=for-the-badge&url=https://rehan-pasha.surge.sh/)]
    
 - 🔭 I’m currently working on HTML CSS Java-Script And React-js
 
