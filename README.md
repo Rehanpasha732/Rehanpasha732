@@ -1,5 +1,5 @@
  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
-   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Rehan Pasha</h1>
+   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Rehan Pasha </h1>
    <p> Programming is my passion,🙂 fashion❤, and obsession.💕
 As a programming's fan,I love❤ to roam the world of programming.💻💖
 I have won html,css,JavaScript(es6),React,Bootstrap, 
@@ -9,7 +9,7 @@ Also, I am ready🤵 to deal with the new technology 💻and the challenges that
        
      
    
-- 🔭 I’m currently working on HTML CSS And Java-Script(https://figo-assignment.netlify.app/) (https://salt-n-pepper-website.netlify.app/)
+- 🔭 I’m currently working on HTML CSS Java-Script And React-js
 
 -🌱 I’m currently learning Hybrid mobile App and Web Development.
 
@@ -17,9 +17,9 @@ Also, I am ready🤵 to deal with the new technology 💻and the challenges that
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **pasharehan732@gmail.com**
+- 📫 How to reach me **pasharehan732@gmail.com** (https://rehan-pasha.surge.sh/)
 
-- ⚡ Fun fact: I spend almost 2 hours listening to songs every day.**🙃
+- ⚡ Fun fact: I spend almost 2 hours listening to songs every day.**🙃 (https://salt-n-pepper-website.netlify.app/)
   
     
 <h3 align="left">Connect with me:</h3>
