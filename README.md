@@ -1,5 +1,6 @@
  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
-   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Rehan Pasha </h1>
+   <h1 align="center">Hi <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
+, I'm Rehan Pasha </h1>
    <p> Programming is my passion,🙂 fashion❤, and obsession.💕
 As a programming's fan,I love❤ to roam the world of programming.💻💖
 I have won html,css,JavaScript(es6),React,Bootstrap, 
@@ -8,6 +9,7 @@ Also, I am ready🤵 to deal with the new technology 💻and the challenges that
  
        
      
+[![Website](https://img.shields.io/website?label=Rehan-Pasha.surge.sh/.com&style=for-the-badge&url=https://rehan-pasha.surge.sh/)]
    
 - 🔭 I’m currently working on HTML CSS Java-Script And React-js
 
