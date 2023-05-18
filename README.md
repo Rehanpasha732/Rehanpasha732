@@ -13,7 +13,7 @@ Also, I am ready🤵 to deal with the new technology 💻and the challenges that
    
 - 🔭 I’m currently working on React-js and React-Native
 
--🌱 I’m currently learning somthing new and amazing
+-🌱 I’m currently learning something new and amazing
 
 - 👯 I’m looking to collaborate on **GitHub**
 
