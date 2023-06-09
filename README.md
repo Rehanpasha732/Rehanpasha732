@@ -41,7 +41,5 @@ Also, I am ready🤵 to deal with the new technology 💻and the challenges that
   <img src='https://camo.githubusercontent.com/c644fa80e8dadef7444df5c9fc8df2deedd7706f3f58c9604776319cf0357c34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652532302d2532333033394245352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365' width="" height=""/> 
   
   <img src='https://camo.githubusercontent.com/6aea43d076c7bf00489f1b347caa33fe5c4d84a8af2983804f8702632f2669ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465' width="" height=""/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
