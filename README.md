@@ -21,7 +21,7 @@ Also, I am ready🤵 to deal with the new technology 💻and the challenges that
 
 - 📫 How to reach me **pasharehan732@gmail.com**<br/>(https://rehan-pasha.surge.sh/)
 
-- ⚡ Fun fact: I spend almost 2 hours listening to songs every day.**🙃 (https://salt-n-pepper-website.netlify.app/)
+- ⚡ Fun fact: I spend almost 2 hours listening to songs every day.**🙃 
   
     
 <h3 align="left">Connect with me:</h3>
