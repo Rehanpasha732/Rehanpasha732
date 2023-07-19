@@ -1,5 +1,5 @@
-
-  <img src='https://github.com/Ammarkarim73/Ammarkarim73/raw/main/contributions.svg'/>
+ <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+ 
 
    <h1 align="center">Hi <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
 , I'm Rehan Pasha </h1>
