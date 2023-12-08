@@ -19,7 +19,7 @@ Also, I am ready🤵 to deal with the new technology 💻and the challenges that
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **REACT-JS**
 
 - 📫 How to reach me **pasharehan732@gmail.com**<br/>(https://rehan-pasha.surge.sh/)
 
