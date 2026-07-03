@@ -89,17 +89,29 @@ I'm a **Senior MERN Stack Developer** based in Karachi, Pakistan 🇵🇰, curre
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehanpasha732&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanpasha732&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rehanpasha732&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehanpasha732&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rehanpasha732/Rehanpasha732/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rehanpasha732/Rehanpasha732/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Rehanpasha732/Rehanpasha732/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%" />
 </p>
 
 ---
