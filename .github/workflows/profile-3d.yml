@@ -2,7 +2,6 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    # Roz raat 12 baje UTC par auto-update
     - cron: "0 0 * * *"
   workflow_dispatch:
 

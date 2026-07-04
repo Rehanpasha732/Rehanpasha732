@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Har 12 ghante baad auto-update
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
