@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior MERN Stack Developer** based in Karachi, Pakistan 🇵🇰, currently working at **Neptunes Tech**. I build scalable web and mobile applications that solve real business problems — from quality-control platforms and live GPS tracking apps to AI-powered workflow automations.
+I'm a **MERN Stack Developer** based in Karachi, Pakistan 🇵🇰, currently working at **Neptunes Tech**. I build scalable web and mobile applications that solve real business problems — from quality-control platforms and live GPS tracking apps to AI-powered workflow automations.
 
 - 🔭 Currently building **full-stack MERN applications & cross-platform mobile apps (React Native)**
 - 🤖 Designing **AI automation workflows** with **n8n**
