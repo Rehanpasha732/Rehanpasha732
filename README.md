@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />, I'm Rehan Pasha</h1>
 
-<h3 align="center">Senior MERN Stack Developer | React • Next.js • Node.js • React Native | AI Automation with n8n</h3>
+<h3 align="center">MERN Stack Developer | React • Next.js • Node.js • React Native | AI Automation with n8n</h3>
 
 <p align="center">
   <a href="https://rehan-pasha.vercel.app/" target="_blank">
